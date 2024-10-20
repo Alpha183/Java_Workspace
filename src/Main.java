@@ -7,7 +7,7 @@ public class Main {
         while (true) {
             System.out.println("-----------------------------------------------");
 
-            System.out.println("Enter VAlue Of x2");
+            System.out.println("Enter Value Of x2");
             double x2 = sc.nextDouble();
 
             System.out.println("Enter value of y2");
